@@ -1,6 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:377034
-#EXTINF:4.004,
-http://62.210.248.96:11000/live/sibora/a6NElrbzSX/6513.ts
+#EXTINF:-1
+http://lospotitos.esy.es/android/canal-558.m3u8
